@@ -5,7 +5,7 @@
       "desc": "利用stable-diffusion画图的插件"
     },
     "replicate": {
-      "url": "https://github.com/lanvent/plugin_replicate.git",
+      "url": "https://github.com/Zhaoyi-Yan/plugin_replicate",
       "desc": "利用replicate api画图的插件"
     },
     "summary": {
